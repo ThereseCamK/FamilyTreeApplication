@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeApplication", "FamilyTreeApplication\FamilyTreeApplication.csproj", "{51AB8558-018C-445B-BACD-0C9AE596CB3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeApplicationTest", "FamilyTreeApplicationTest\FamilyTreeApplicationTest.csproj", "{7DD7DFA8-385D-47CF-88F0-BE6CAEF5B617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51AB8558-018C-445B-BACD-0C9AE596CB3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51AB8558-018C-445B-BACD-0C9AE596CB3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51AB8558-018C-445B-BACD-0C9AE596CB3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51AB8558-018C-445B-BACD-0C9AE596CB3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD7DFA8-385D-47CF-88F0-BE6CAEF5B617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD7DFA8-385D-47CF-88F0-BE6CAEF5B617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD7DFA8-385D-47CF-88F0-BE6CAEF5B617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD7DFA8-385D-47CF-88F0-BE6CAEF5B617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA32E2D-8421-4F0E-ADC3-89C5534E440C}
+	EndGlobalSection
+EndGlobal
